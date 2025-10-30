@@ -6,8 +6,11 @@ The "Digital Wallet Transaction Analysis Dashboard" provides insights into digit
 Built in Power BI, it enables users to explore total sales, category-wise performance, and monthly transaction trends for better financial understanding and business optimization.
 
 🎯 Objectives
+
 Visualize digital wallet transaction patterns and trends.
+
 Compare sales across categories, payment methods, and regions.
+
 Identify key insights for revenue improvement and customer engagement.
 
 🗂️ Dataset Description
