@@ -1,6 +1,7 @@
 💳 Digital Wallet Transaction Analysis Dashboard
 
 📊 Project Overview
+
 The "Digital Wallet Transaction Analysis Dashboard" provides insights into digital payment behavior across multiple transaction types during 2023–2024.
 Built in Power BI, it enables users to explore total sales, category-wise performance, and monthly transaction trends for better financial understanding and business optimization.
 
